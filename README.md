@@ -12,7 +12,7 @@ Both files are structured as follows:
 - Line terminator: `\n`
 - Columns (in that order):
   - `username` (string) Name of the RWR account as shown in-game
-  - `timestamp` (string) [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date when the stats was saved
+  - `timestamp` (string) [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) date of the stats
   - `xp` (int) Experience
   - `kills` (int) Number of soldiers killed
   - `deaths` (int) Number of times died
