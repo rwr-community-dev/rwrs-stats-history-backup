@@ -1,8 +1,8 @@
 # RWRS stats history backup
 
-This repository contains two CSV files which are the database export of all the players' stats history on official **Invasion** and **WW2 DLCs** servers, as saved by the now-defunct [RWRS](https://github.com/EpocDotFr/rwrs) (rwrstats.com) project. Exports were made the day RWRS shutdown (december 12, 2025).
+This repository contains two CSV files which are the database export of all the players' stats history on official **Invasion** and **WW2 DLCs** servers, as saved by the now-defunct [RWRS](https://github.com/EpocDotFr/rwrs) (rwrstats.com) project. Exports were made the day RWRS shut down (december 12, 2025).
 
-Stats history was only recorded for the 5000 most experienced players, and had a data retention policy of one year per RWR account, so not everyone will present in these files.
+Stats history was only recorded for the 5000 most experienced players, and had a data retention policy of one year per RWR account, so not everyone will be present in these files.
 
 Both files are structured as follows:
 
