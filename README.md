@@ -8,7 +8,7 @@ Both files are structured as follows:
 
 - Column separator: `,`
 - Enclosure: `"`
-- Escape char: `\\`
+- Escape char: `"`
 - Line terminator: `\n`
 - Columns (in that order):
   - `username` (string) Name of the RWR account as shown in-game
