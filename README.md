@@ -22,9 +22,9 @@ Both files are structured as follows:
   - `vehicles_destroyed` (int) Number of vehicles destroyed
   - `soldiers_healed` (int) Number of soldiers healed
   - `teamkills` (int) Number of friendly soldiers killed
-  - `distance_moved `(float) Number of kilometers ran
-  - `shots_fired`:  (int) Number of shots fired
-  - `throwables_thrown`:  (int) Number of throwables (e.g grenades) thrown
+  - `distance_moved` (float) Number of kilometers ran
+  - `shots_fired` (int) Number of shots fired
+  - `throwables_thrown` (int) Number of throwables (e.g grenades) thrown
 
 These stats must be computed by yourself (they weren't persisted in database):
 
